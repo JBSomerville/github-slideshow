@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to JBSomerville's Slide!"
 ---
-JBSomerville's slide
+New slide
 Use the left arrow to go back!
